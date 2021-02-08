@@ -40,7 +40,7 @@
 
 ## INSTALLATION
 
-    $ git clone https://github.com/pythonhackreack/Hackfbphi
+    $ git clone https://github.com/Pythonhackreackk/Hackfbphi
     
     $ cd FBTOOL
 
