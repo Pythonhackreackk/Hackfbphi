@@ -28,7 +28,7 @@ def exit():
 	os.system('clear')
 	print "\033[1;91m[!] Closing the tool..."
 	os.system('sleep 3 && clear')
-	os.system('xdg-open https://web.facebook.com/mkdirlove.git')
+	os.system('xdg-open https://web.facebook.com/pythonhackreack.git')
 	os.sys.exit()
         tool_main_function()
 
@@ -51,15 +51,15 @@ logo = """
 │┣━┫┃┗┫┃ ┃┃┗┫┗┳┛┗━┓┣━┛┣━┫┃┃┗┫┏╋┛   ┣━┛┣━┫┃┃  ┃┣━┛┣━┛┃┃┗┫┣╸ ┗━┓│\033[1;91m
 │╹ ╹╹ ╹┗━┛╹ ╹ ╹ ┗━┛╹  ╹ ╹╹╹ ╹╹ ╹   ╹  ╹ ╹╹┗━╸╹╹  ╹  ╹╹ ╹┗━╸┗━┛│\033[1;91m
 └─────────────────────────────────────────────────────────────┘\033[1;91m
-\033[1;97m╔═════════════════════════════════════════════════════════════╗
-\033[1;97m║\033[1;93m* \033[1;97mTeam    \033[1;91m: \033[1;96mPYTHONHACKREACKINDONESIA \033[1;97m                         ║
-\033[1;97m║\033[1;93m* \033[1;97mRecode  \033[1;91m: \033[1;96mPythonNumbet7 \033[1;97m               ║
-\033[1;97m║\033[1;93m* \033[1;97mGithub  \033[1;91m: \033[1;96mhttps://github.com/pythonhackreack/Hackfbphi\033[1;97m              ║
-\033[1;97m║\033[1;93m* \033[1;97mFB      \033[1;91m: \033[1;92m\033[4mhttps://web.facebook.com/pythonhackreack.git\033[0m\033[1;97m           ║
-\033[1;97m║\033[1;93m* \033[1;97mCredits \033[1;91m: \033[1;96m[Wrath] [Magizz] [SantriCyber] \033[1;97m                  ║
-\033[1;97m║\033[1;93m* \033[1;97mNotice \033[1;91m : \033[1;96mThis is not my own work, i just recoded it. \033[1;97m     ║
-\033[1;97m║\033[1;93m* \033[1;97mVersion \033[1;91m: \033[1;92m\033[4m1.1.0\033[0m                        \033[1;97m                    ║
-\033[1;97m╚═════════════════════════════════════════════════════════════╝"""
+\033[1;97m╔══════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+\033[1;97m║\033[1;93m* \033[1;97mTeam    \033[1;91m: \033[1;96mPYTHONHACKREACKINDONESIA \033[1;97m                                     ║
+\033[1;97m║\033[1;93m* \033[1;97mRecode  \033[1;91m: \033[1;96mPythonNumbet7 \033[1;97m                                                ║
+\033[1;97m║\033[1;93m* \033[1;97mGithub  \033[1;91m: \033[1;96mhttps://github.com/pythonhackreack/Hackfbphi\033[1;97m                  ║
+\033[1;97m║\033[1;93m* \033[1;97mFB      \033[1;91m: \033[1;92m\033[4mhttps://web.facebook.com/pythonhackreack.git\033[0m\033[1;97m    ║
+\033[1;97m║\033[1;93m* \033[1;97mCredits \033[1;91m: \033[1;96m[Wrath] [Magizz] [SantriCyber] \033[1;97m                               ║
+\033[1;97m║\033[1;93m* \033[1;97mNotice \033[1;91m : \033[1;96mThis is not my own work, i just recoded it. \033[1;97m                  ║
+\033[1;97m║\033[1;93m* \033[1;97mVersion \033[1;91m: \033[1;92m\033[4m1.1.0\033[0m                        \033[1;97m                   ║
+\033[1;97m╚══════════════════════════════════════════════════════════════════════════════════════════════════════════╝"""
 
 # load #
 def load():
