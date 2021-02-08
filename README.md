@@ -5,7 +5,7 @@
     "MAKE SOME CHANGES IN THE LOGO OF THIS TOOL"
 #
 ## A FACEBOOK HACKING TOOLKIT FOR NOOBZ
-![FIRST RUN OF MY TOOL](https://github.com/mkdirlove/FBTOOL/blob/master/Screenshot_2020-04-27_17-37-57.png)
+![FIRST RUN OF MY TOOL](https://i.ibb.co/NVVCRGk/IMG-20210208-131441.jpg)
 #
 ## FEATURES:
 - [x] NORMAL LOGIN
@@ -46,9 +46,9 @@
 
 ## USAGE
 
-    $ sudo python2 fbtool.py
+    $ sudo python2 fbphi.py
     
     or
     
-    $ python2 fbtool.py
+    $ python2 fbphi.py
 #
