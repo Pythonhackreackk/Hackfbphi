@@ -42,7 +42,7 @@
 
     $ git clone https://github.com/Pythonhackreackk/Hackfbphi
     
-    $ cd FBTOOL
+    $ cd fbphi
 
 ## USAGE
 
